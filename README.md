@@ -1,3 +1,3 @@
-#My Sample gitapp
+# My Sample gitapp
 
 This is my sample application!
